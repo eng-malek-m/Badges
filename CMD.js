@@ -1,1 +1,1 @@
-console.log "CMD"
+let = hello ;
